@@ -1,0 +1,8 @@
+- Hi, I'm Jahnavi!
+- Soon to graduate with a Bachelor's of Technology in Computer Science Engineering. (Sept 2024)
+- Passionate about AI/ML, Web3.0 and Web/Mobile Development.
+- Experience in Web Development - React/JavaScript, HTML, CSS , TailwindCSS and Bootstrap4.
+- Experience in Machine Learning - Python, R, MATLAB and OpenCV.
+- As for my future, I hope to one day work as an A.I. engineer in a diverse team and travel the world.
+- In my free time you will find me reading about topics unrelated to my core discipline (like economics, psychology and world history).
+- Mobile Development, Computer Vision, Machine Learning.

@@ -1,8 +1,5 @@
-- Hi, I'm Jahnavi!
-- Soon to graduate with a Bachelor's of Technology in Computer Science Engineering. (Sept 2024)
-- Passionate about AI/ML, Web3.0 and Web/Mobile Development.
-- Experience in Web Development - React/JavaScript, HTML, CSS , TailwindCSS and Bootstrap4.
-- Experience in Machine Learning - Python, R, MATLAB and OpenCV.
-- As for my future, I hope to one day work as an A.I. engineer in a diverse team and travel the world.
-- In my free time you will find me reading about topics unrelated to my core discipline (like economics, psychology and world history).
-- Mobile Development, Computer Vision, Machine Learning.
+Hi! I’m a computer engineering graduate student and a Graduate Researcher at the General Purpose Robotics and AI Lab (GRAIL) at NYU’s CILVR Group with Prof. Lerrel Pinto.
+
+Other experiences of mine include researching efficient model inference at the System & Artificial Intelligence (SAI) Lab with Prof. Sai Zhang, working on multilingual representation learning at the National University of Singapore with Prof. Liu Lili, and leading robotics control work as part of the IIT Bombay E-Yantra Robotics initiative.
+
+I also hold a Bachelor’s Degree in Computer Science Engineering, where I explored reinforcement learning and NLP.

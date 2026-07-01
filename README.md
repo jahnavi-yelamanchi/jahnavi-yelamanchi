@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/NYU%20MS%20Computer%20Engineering-57068c?style=flat-square" />
   <img src="https://img.shields.io/badge/ML%20%2F%20AI%20Engineer-4f46e5?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-16a34a?style=flat-square" />
-  <a href="https://linkedin.com/in/jahnavi-yelamanchi"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jahnaviym"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -49,11 +49,4 @@ Currently targeting **MLE / AI Engineer** roles.
   <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=flat-square" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahnavi-yelamanchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi-yelamanchi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
 </p>

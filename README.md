@@ -33,20 +33,3 @@ Currently targeting **MLE / AI Engineer** roles.
 
 **[askmydb](https://github.com/jahnavi-yelamanchi/askmydb)** — Natural-language → SQL analytics copilot. Schema-aware prompting + OpenAI function calling forces structured SQL output; validated read-only before hitting Postgres. Auto-renders bar/line charts from results. **93% execution accuracy** on a 15-case NL→SQL eval suite. Live demo.
 `FastAPI` `PostgreSQL` `React` `Docker` `OpenAI`
-
----
-
-### ✦ Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,docker,react,ts,postgres,linux&perline=8" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Triton-EE4C2C?style=flat-square" />
-  <img src="https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-76b900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=flat-square" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-</p>

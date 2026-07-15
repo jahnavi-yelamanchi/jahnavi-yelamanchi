@@ -17,19 +17,3 @@
 I work across the ML stack — GPU kernels, inference serving infra, and LLM-powered products. Most recently a Graduate Researcher at **NYU CILVR (GRAIL Lab)** under Prof. Lerrel Pinto on visuo-tactile world models for robot perception. Prior research at NUS (multilingual representation learning) and IIT Bombay E-Yantra (robotics control).
 
 Currently targeting **MLE / AI Engineer** roles.
-
----
-
-### ✦ Projects
-
-**[forge](https://github.com/jahnavi-yelamanchi/forge)** — FlashAttention-style fused causal attention kernel in Triton for GPT-2. Up to **18.9× faster** than naive PyTorch, ~33× less HBM traffic, matching PyTorch SDPA within ~2% end-to-end. Includes fused backward, MLP/GELU epilogue, autotuning, and profiling on A100.
-`Triton` `CUDA` `PyTorch` `Modal A100`
-
-**[surge](https://github.com/jahnavi-yelamanchi/surge)** — Reproducible benchmarking harness for vLLM serving on Llama-3-8B. Tunes PagedAttention, continuous batching, and KV-cache eviction knobs against a fixed tail-latency SLO. Custom async load generator with Poisson/bursty traffic. Runs serverless on Modal.
-`vLLM` `PyTorch` `Modal` `Python`
-
-**[cutdown](https://github.com/jahnavi-yelamanchi/cutdown)** — Full-stack ML system that ranks short clips from long-form video. Compares a transcript-only baseline against a multimodal scorer (frozen video embeddings + lightweight trainable ranker head). FastAPI backend, Next.js frontend, evaluated with precision@k.
-`FastAPI` `Next.js` `TypeScript` `Python`
-
-**[askmydb](https://github.com/jahnavi-yelamanchi/askmydb)** — Natural-language → SQL analytics copilot. Schema-aware prompting + OpenAI function calling forces structured SQL output; validated read-only before hitting Postgres. Auto-renders bar/line charts from results. **93% execution accuracy** on a 15-case NL→SQL eval suite. Live demo.
-`FastAPI` `PostgreSQL` `React` `Docker` `OpenAI`

@@ -14,6 +14,6 @@
 
 ---
 
-I work across the ML stack — GPU kernels, inference serving infra, and LLM-powered products. Most recently a Graduate Researcher at **NYU CILVR (GRAIL Lab)** under Prof. Lerrel Pinto on visuo-tactile world models for robot perception. Prior research at NUS (multilingual representation learning) and IIT Bombay E-Yantra (robotics control).
+I work across the ML stack — GPU kernels, inference serving infra, and LLM-powered products. Most recently a Graduate Researcher at **NYU CILVR (GRAIL Lab)** under Prof. Lerrel Pinto on visuo-tactile world models for robot perception.
 
 Currently targeting **MLE / AI Engineer** roles.

@@ -1,12 +1,16 @@
+<div align="center">
+  
 # Jahnavi Yelamanchi
 
-## Machine Learning & Software Engineer
+**Machine Learning & Software Engineer**
 
 **Foundation Models · ML Systems · GPU / Inference · Embodied AI · AI Infrastructure**
 
 M.S. Computer Engineering, NYU Tandon · **May 2026 · 3.83 GPA**
 
 [**View Portfolio**](https://jahnavi-yelamanchi.github.io/) · [LinkedIn](https://www.linkedin.com/) · [Résumé](https://drive.google.com/file/d/1DQtKNTDu7e0UTFF04x4_nTMyEMBYZhdO/view) · [Email](mailto:jahnaviyelamanchi03@gmail.com)
+
+</div>
 
 ## Recruiter Quick View
 
@@ -86,6 +90,8 @@ Preflight validation system for multimodal embodied-AI datasets.
 
 `Kubernetes` · `gRPC` · `NATS` · `Docker` · `Slurm` · `Singularity` · `Modal` · `GitHub Actions`
 
---
-
+---
+<div align="center">
+  
 _Happy to connect over distributed systems, model architecture, or just good engineering._
+</div>
